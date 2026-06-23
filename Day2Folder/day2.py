@@ -12,7 +12,7 @@ for count in range(10):
 ########################################################################
 # Task 2:
 for letter in "fuck u bitch":
-     
+    print(letter) 
 
 
 
