@@ -15,6 +15,7 @@ print(MyTitle + " " + Myname + "asks the peasants to " + MyCommand)
 
 
 
+
 ########################################################################
 # Task 3:
 
