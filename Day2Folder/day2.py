@@ -41,7 +41,7 @@ for count in range(5,32,2):
 
 ########################################################################
 # Task 6:
-for count in range(1,10):
+for count in range(50,1):
     print(count)
 
 
