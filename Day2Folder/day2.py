@@ -13,6 +13,7 @@ for count in range(10):
 # Task 2:
 for letter in "BOB":
     print ("give me a"+letter)
+print
 
 
 
