@@ -11,8 +11,8 @@ for count in range(10):
 
 ########################################################################
 # Task 2:
-for letter in "fuck u bitch":
-    print(letter) 
+for letter in "BOB":
+    print ("give me a"+letter)
 
 
 
