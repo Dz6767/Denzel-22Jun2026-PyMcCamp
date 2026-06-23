@@ -13,7 +13,7 @@ print(MyTitle + " " + Myname + "asks the peasants to " + MyCommand)
 ########################################################################
 # Task 2:
 name = ("Bob")
-num_pens
+num_pens = (1067)
 
 
 
