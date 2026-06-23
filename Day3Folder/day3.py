@@ -14,7 +14,7 @@ print("hello from day3")
 # Task 2:
 name = ("Bob")
 num_pens = (1067)
-print(name + " bought " + num_pens + " pens.")
+print(name + " bought " + str(num_pens) + " pens.")
 
 
 ########################################################################
