@@ -20,7 +20,7 @@ print("Bob!!!")
 
 ########################################################################
 # Task 3:
-for counter in range (1000):
+for counter in range (1001):
     print(counter)
 
 
