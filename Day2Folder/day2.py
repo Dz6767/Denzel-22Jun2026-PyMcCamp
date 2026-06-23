@@ -41,6 +41,20 @@ for count in range(5,32):
 
 ########################################################################
 # Task 6:
+for count in range(0,32):
+    print(count)
+for count in range(5,32):
+    print(count)
+for count in range(5,32):
+    print(count)
+for count in range(5,32):
+    print(count)
+for count in range(5,32):
+    print(count)
+for count in range(5,32):
+    print(count)
+for count in range(5,32):
+    print(count)
 
 
 
