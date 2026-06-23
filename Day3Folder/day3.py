@@ -7,7 +7,7 @@ print("hello from day3")
 Myname = input ("What is your name?")
 MyTitle = input ("What is your title?")
 MyCommand = input ("What is your command?")
-print ("Myname+")
+print(MyTitle + Myname + "asks the peasants to" + MyCommand)
 
 
 ########################################################################
