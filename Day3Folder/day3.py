@@ -14,7 +14,7 @@ print(MyTitle + " " + Myname + "asks the peasants to " + MyCommand)
 # Task 2:
 name = ("Bob")
 num_pens = (1067)
-print(name + "bought" + num_pens + "")
+print(name + " bought " + num_pens + " pens.")
 
 
 ########################################################################
