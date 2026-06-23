@@ -27,21 +27,21 @@ for counter in range (1001):
 
 ########################################################################
 # Task 4:
-for count in range(1,11):
+for count in range(1,10):
     print(count)
 
 
 
 ########################################################################
 # Task 5:
-for count in range(5,33,2):
+for count in range(5,32,2):
     print(count)
 
 
 
 ########################################################################
 # Task 6:
-for count in range(50,0,-1):
+for count in range(50,1):
     print(count)
 
 
