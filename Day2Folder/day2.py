@@ -21,7 +21,7 @@ print("Bob!!!")
 ########################################################################
 # Task 3:
 for counter in range (5):
-    print
+    print(counter)
 
 
 
