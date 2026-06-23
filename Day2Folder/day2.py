@@ -47,3 +47,7 @@ for count in range(50,0,-1):
 
 ########################################################################
 # Additional exercises:
+def on_on_chat():
+    agent.set_item(DIAMOND_AXE, 1, 1)
+    agent.drop(FORWARD, 1, 1)
+player.on_chat("getaxe", on_on_chat)
