@@ -52,7 +52,7 @@ else:
 # Task 7:
 import random
 diceValue = random.randint(1,6)
-
+print 
 
 
 ########################################################################
