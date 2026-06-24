@@ -58,7 +58,7 @@ for count in range (10):
 ########################################################################
 # Task 8:
 import random
-n1 = random.radint
+n1 = random.radint(1)
 
 
 
