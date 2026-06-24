@@ -33,7 +33,7 @@ print( str(amount * price) + " is the total amount of money u need to pay.")
 ########################################################################
 # Task 5:
 age1 = int(input ("Age 1"))
-
+age2 = int(input ("Age 2"))
 
 
 ########################################################################
