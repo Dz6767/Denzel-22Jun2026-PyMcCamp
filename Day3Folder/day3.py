@@ -50,7 +50,8 @@ else:
 
 ########################################################################
 # Task 7:
-import randomdiceValue
+import random
+diceValue = 
 
 
 
