@@ -26,7 +26,8 @@ print( str(num1 + num2) + " is the number you get when you add those two togethe
 ########################################################################
 # Task 4:
 amount = int(input("How much bananas did you buy?"))
-print(str(amount * 6.7))
+price= 6.7
+print( str(amount * price) + "is the total amount of money u need to pay.")
 
 
 ########################################################################
