@@ -40,7 +40,7 @@ else:
     print ("2 is younger than 1")
 ########################################################################
 # Task 6:
-password = input ("password")
+password = input ("Password ")
 
 
 
