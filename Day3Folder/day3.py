@@ -64,6 +64,6 @@ hehe=input("What is"+str(n1+n2)+"?")
 if hehe == n1+n2:
     print ("Smart ass")
 else:
-    print:("Dumbass")
+    print("Dumbass")
 ########################################################################
 # Additional exercises:
