@@ -19,8 +19,8 @@ print(name + " bought " + str(num_pens) + " pens.")
 
 ########################################################################
 # Task 3:
-num1 = input ("Gimme a number")
-num2 = input ("Again.")
+num1 = input ("Gimme a number ")
+num2 = input ("Again. ")
 print(num1 + num2 + "is the number you get when you add those two together.")
 
 ########################################################################
