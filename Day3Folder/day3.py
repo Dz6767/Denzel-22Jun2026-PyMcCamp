@@ -52,8 +52,8 @@ else:
 # Task 7:
 import random
 for count in range (10):
-    hi= random.randint()
-
+    hi= random.randint(1,100)
+    print (hi)
 
 ########################################################################
 # Task 8:
