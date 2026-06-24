@@ -60,7 +60,7 @@ for count in range (10):
 import random
 n1 = random.randint(1,10)
 n2 = random.randint(1,10)
-hehe=input("What is"+str(n1+n2)+"?")
+hehe=input("What is"+str(n1)+(n2)+"?")
 if hehe == n1+n2:
     print ("Smart ass")
 else:
