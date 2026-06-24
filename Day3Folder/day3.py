@@ -25,7 +25,7 @@ print( str(num1 + num2) + " is the number you get when you add those two togethe
 
 ########################################################################
 # Task 4:
-
+amount = 
 
 
 
