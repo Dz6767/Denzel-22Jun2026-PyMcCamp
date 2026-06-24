@@ -52,7 +52,7 @@ else:
 # Task 7:
 import random
 for count in range (10):
-    random
+    hi= 
 
 
 ########################################################################
