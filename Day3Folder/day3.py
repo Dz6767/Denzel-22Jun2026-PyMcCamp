@@ -51,7 +51,7 @@ else:
 ########################################################################
 # Task 7:
 import random
-diceValue = 
+diceValue = random.randint(1,6)
 
 
 
