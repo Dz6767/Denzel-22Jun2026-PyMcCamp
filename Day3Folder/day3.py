@@ -60,7 +60,7 @@ for count in range (10):
 import random
 n1 = random.radint(1,10)
 n2 = random.radint(1,10)
-
+print("")
 
 ########################################################################
 # Additional exercises:
