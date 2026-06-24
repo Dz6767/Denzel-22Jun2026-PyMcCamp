@@ -26,7 +26,7 @@ print( str(num1 + num2) + " is the number you get when you add those two togethe
 ########################################################################
 # Task 4:
 amount = int(input("How much bananas did you buy?"))
-print(amount)
+print(amount )
 
 
 ########################################################################
